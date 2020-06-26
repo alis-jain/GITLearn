@@ -7,7 +7,7 @@ void doSomethingAtRemote(){
 	printf("Hiiiii\n");
 	return;
 }
-void uselessFunction(){
+void emptyFunctionStub(){
 }
 int main(){
 	hello();
