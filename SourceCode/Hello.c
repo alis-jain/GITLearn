@@ -11,3 +11,7 @@ int main(){
 	hello();
 	return 0;
 }
+
+void doThingsYouLike(){
+	printf("Like the world");
+}
