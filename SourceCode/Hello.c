@@ -7,6 +7,8 @@ void doSomethingAtRemote(){
 	printf("Hiiiii\n");
 	return;
 }
+void uselessFunction(){
+}
 int main(){
 	hello();
 	return 0;
